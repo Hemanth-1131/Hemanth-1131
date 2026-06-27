@@ -58,7 +58,6 @@ what I tell it to, one memory-mapped register at a time.
 
 ### 🔭 Currently
 
-- 🧠 Sharpening **STM32 / ESP32** firmware and **FreeRTOS** task scheduling
 
 - 🎯 Open to **Embedded Firmware / RTL Design** roles
 
